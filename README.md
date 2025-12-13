@@ -16,7 +16,7 @@ An intelligent, full-stack application that transforms PostgreSQL query executio
 ## 📖 Table of Contents
 
 - [Features](#-features)
-- [Demo](#-demo)
+- [Screenshots](#-screenshots)
 - [Tech Stack](#️-tech-stack)
 - [Architecture](#-architecture)
 - [Prerequisites](#-prerequisites)
@@ -36,30 +36,27 @@ An intelligent, full-stack application that transforms PostgreSQL query executio
 - **🔍 Bottleneck Detection**: Automatically identifies Sequential Scans, expensive Sorts, and inefficient Joins
 - **💡 Smart Recommendations**: Get actionable suggestions for query rewrites and index creation
 
-## 🎬 Demo
+## 🎬 Screenshots
 
-### Query Plan Visualization
-The application transforms complex PostgreSQL EXPLAIN output into an intuitive visual tree:
+### Database Connection
+Connect to any PostgreSQL database with an intuitive interface:
 
-```
-┌─────────────────────┐
-│   Aggregate         │
-│   Cost: 1234.56     │
-└──────────┬──────────┘
-           │
-    ┌──────▼──────┐
-    │  Seq Scan   │ ⚠️ Bottleneck Detected!
-    │  Cost: 1200 │
-    └─────────────┘
-```
+![PostgreSQL Login](images/postgresql_login.png)
 
-### AI Analysis Example
-```
-🔍 Performance Analysis:
-• Sequential Scan detected on 'users' table (1M rows)
-• Recommendation: CREATE INDEX idx_users_email ON users(email)
-• Expected improvement: 85% faster query execution
-```
+### Query Editor & Execution
+Write and execute queries with a clean, user-friendly editor:
+
+![Query Editor](images/query_getter.png)
+
+### AI-Powered Analysis & Interactive Chat
+Get intelligent insights and chat with AI about your query performance:
+
+![AI Analysis with Chatbot](images/analisis_query_with_chat_bot.png)
+
+### Compare Mode
+Compare two queries side-by-side to analyze performance differences:
+
+![Compare Queries](images/compare_two_queries.png)
 
 ## 🛠️ Tech Stack
 
