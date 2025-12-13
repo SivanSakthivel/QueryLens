@@ -1,6 +1,8 @@
-# PostgreSQL Query Plan Optimizer 🚀
+# QueryLens 🔍
 
-An intelligent, full-stack application designed to visualize, analyze, and optimize PostgreSQL query execution plans using advanced AI.
+**See through the complexity of PostgreSQL queries with AI-powered visualization and optimization.**
+
+An intelligent, full-stack application that transforms PostgreSQL query execution plans into interactive visualizations and actionable insights using Google Gemini AI.
 
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -117,8 +119,8 @@ The application transforms complex PostgreSQL EXPLAIN output into an intuitive v
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/postgresql_optimizater.git
-cd postgresql_optimizater
+git clone https://github.com/SivanSakthivel/QueryLens.git
+cd QueryLens
 ```
 
 ### 2. Configure Environment Variables
@@ -258,8 +260,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Quick Start for Contributors
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR_USERNAME/postgresql_optimizater.git
-cd postgresql_optimizater
+git clone https://github.com/SivanSakthivel/QueryLens.git
+cd QueryLens
 
 # Create a feature branch
 git checkout -b feature/your-feature-name
@@ -287,8 +289,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/postgresql_optimizater/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/postgresql_optimizater/discussions)
+- **Issues**: [GitHub Issues](https://github.com/SivanSakthivel/QueryLens/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/SivanSakthivel/QueryLens/discussions)
 
 ## 🌟 Star History
 
@@ -296,4 +298,4 @@ If you find this project useful, please consider giving it a star! ⭐
 
 ---
 
-**Made with ❤️ for the Hat AI-thon** | [Report Bug](https://github.com/YOUR_USERNAME/postgresql_optimizater/issues) | [Request Feature](https://github.com/YOUR_USERNAME/postgresql_optimizater/issues)
+**Made with ❤️ for the Hat AI-thon** | [Report Bug](https://github.com/SivanSakthivel/QueryLens/issues) | [Request Feature](https://github.com/SivanSakthivel/QueryLens/issues)
