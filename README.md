@@ -11,7 +11,7 @@ An intelligent, full-stack application that transforms PostgreSQL query executio
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 
-> **Built for the Hat AI-thon** - Leveraging Google Gemini 2.5 Flash to make database optimization accessible to everyone.
+> **Built** - Leveraging Google Gemini 2.5 Flash to make database optimization accessible to everyone.
 
 ## 📖 Table of Contents
 
@@ -282,7 +282,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google Gemini 2.5 Flash** for powering the AI analysis
 - **React Flow** for the beautiful query plan visualization
 - **FastAPI** for the robust backend framework
-- **Hat AI-thon** for the inspiration and opportunity
 
 ## 📞 Support
 
@@ -295,4 +294,4 @@ If you find this project useful, please consider giving it a star! ⭐
 
 ---
 
-**Made with ❤️ for the Hat AI-thon** | [Report Bug](https://github.com/SivanSakthivel/QueryLens/issues) | [Request Feature](https://github.com/SivanSakthivel/QueryLens/issues)
+**Made with ❤️** | [Report Bug](https://github.com/SivanSakthivel/QueryLens/issues) | [Request Feature](https://github.com/SivanSakthivel/QueryLens/issues)
